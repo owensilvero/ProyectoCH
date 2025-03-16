@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara
+https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
+
+https://www.kaggle.com/datasets/yasserh/loan-default-dataset
+# Descripción del dataset no-oficial
+https://www.kaggle.com/datasets/yasserh/loan-default-dataset/discussion/522084
+
+https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
